@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@bee2pay/ui-components": "^0.27.29",
     "@module-federation/nextjs-mf": "^8.4.6",
     "next": "14.2.5",
     "react": "^18",
@@ -20,6 +21,7 @@
     "@types/react-dom": "^18",
     "@typescript-eslint/eslint-plugin": "^7.18.0",
     "@typescript-eslint/parser": "^7.18.0",
+    "css-loader": "^7.1.2",
     "eslint": "^8",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-airbnb-typescript": "^18.0.0",
@@ -32,6 +34,7 @@
     "eslint-plugin-react-hooks": "^4.6.2",
     "postcss": "^8",
     "prettier": "^3.3.3",
+    "style-loader": "^4.0.0",
     "tailwindcss": "^3.4.1",
     "typescript": "^5",
     "webpack": "^5.93.0"
