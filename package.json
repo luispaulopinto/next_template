@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@bee2pay/icons": "^0.6.56",
     "@bee2pay/ui-components": "^0.27.29",
     "@module-federation/nextjs-mf": "^8.4.6",
     "next": "14.2.5",

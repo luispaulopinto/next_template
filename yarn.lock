@@ -11120,6 +11120,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "next-microfront-template@workspace:."
   dependencies:
+    "@bee2pay/icons": "npm:^0.6.56"
     "@bee2pay/ui-components": "npm:^0.27.29"
     "@module-federation/nextjs-mf": "npm:^8.4.6"
     "@types/node": "npm:^20"
